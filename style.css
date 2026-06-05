@@ -1,0 +1,16 @@
+p:nth-child(1){
+    color:red;
+    background-color:yellow;
+}
+p:nth-child(2){
+    color:rgb(193, 224, 58);
+    background-color:rgb(47, 220, 194);
+}
+p:nth-child(3){
+    color:rgb(212, 211, 191);
+    background-color:rgb(46, 164, 105);
+}
+p:nth-child(4){
+    color:rgb(60, 93, 215);
+    background-color:rgb(34, 41, 238);
+}
